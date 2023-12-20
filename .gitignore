@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
+
+# Compiled files
+*.log
+*.min.js
+*.min.css
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Webpack
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+.cache/
+*.log
+logs/
+npm-debug.log*
+
+# Yarn
+yarn-error.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
