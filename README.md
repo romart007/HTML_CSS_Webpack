@@ -13,33 +13,41 @@ Welcome to the HTML and CSS learning repository! This repository is designed to 
    git clone https://github.com/your-username/html-css-learning.git
 
 
-
 1. Navigate to the project directory:
-cd html-css-learning
+```bash
+   cd html-css-learning
+```
 
-2. Install dependencies:
-npm install
+3. Install dependencies:
+```bash
+   npm install
+```
 
 
 Project Structure
-
-/your-project
-  |-- src
-      |-- index.html
-      |-- styles
-          |-- main.scss
-  |-- webpack.config.js
+```bash
+   /your-project
+     |-- src
+         |-- index.html
+         |-- styles
+             |-- main.scss
+     |-- webpack.config.js
+```
 
 src: Contains your HTML and SCSS source files.
 webpack.config.js: Webpack configuration file.
 
 Development Server
 Start the development server with live reload:
-npm start
+```bash
+   npm start
+```
 
 Production Build
 Create a production-ready build:
-npm run build
+```bash
+   npm run build
+```
 
 What You'll Learn
 HTML: Explore the basics of HTML, including essential tags for structuring content.
