@@ -1,14 +1,25 @@
-HTML and CSS Learning Repository
+# HTML and CSS Learning Repository
+
 Welcome to the HTML and CSS learning repository! This repository is designed to provide beginners with a structured path for learning the fundamentals of web development using HTML and CSS. Whether you're new to coding or looking to reinforce your skills, this resource is here to guide you through the essentials.
 
-Getting Started
-Prerequisites
-Node.js and npm installed on your machine.
-Installation
-Clone this repository to your local machine:
-git clone https://github.com/your-username/html-css-learning.gitcd html-css-learning
-Navigate to the project directory:
+## Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) and npm installed on your machine.
+
+### Installation
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/html-css-learning.git
+
+
+
+1. Navigate to the project directory:
+cd html-css-learning
+
+2. Install dependencies:
 npm install
+
 
 Project Structure
 
